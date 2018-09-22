@@ -17,12 +17,12 @@
 
 获取源代码，下载完成后会自动编译为goblog可执行文件
 	
-	$ go get github.com/lisijie/goblog
+	$ go get goblogNew
 
 修改数据库配置
 	
 	$ cd src
-	$ vim github.com/lisijie/goblog/conf/app.conf
+	$ vim goblogNew/conf/app.conf
 	
 	appname = goblog
 	httpport = 8080

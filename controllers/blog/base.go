@@ -2,8 +2,8 @@ package blog
 
 import (
 	"github.com/astaxie/beego"
-	"github.com/lisijie/goblog/models/option"
-	"github.com/lisijie/goblog/util"
+	"goblogNew/models/option"
+	"goblogNew/util"
 	"os"
 	"strings"
 )

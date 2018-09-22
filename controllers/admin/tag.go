@@ -1,8 +1,8 @@
 package admin
 
 import (
-	"github.com/lisijie/goblog/models"
-	"github.com/lisijie/goblog/util"
+	"goblogNew/models"
+	"goblogNew/util"
 	"strconv"
 	"strings"
 )
