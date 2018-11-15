@@ -1888,7 +1888,7 @@ body {
 	position: absolute;
 	right: 0;
 	min-height: 100%;
-	width: 77%;
+	width: 80%;
 	background: whitesmoke
 }
 
@@ -2001,9 +2001,8 @@ body {
 .container .left-col:hover {
 	opacity: 1
 }
-
 .container .left-col {
-	width: 23%;
+	width: 20%;
 	position: fixed;
 	opacity: .3;
 	-webkit-transition: all .2s ease-in;
